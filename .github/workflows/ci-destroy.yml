@@ -31,7 +31,7 @@ jobs:
           cd terraform
           terraform init
 
-      # Destroy Terraform infrastructure with auto-approval
+      # Destroy Terraform infrastructure with --auto-approval
       - name: Terraform Destroy
         run: |
           cd terraform
