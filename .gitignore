@@ -29,3 +29,7 @@ build/
 # OS files
 .DS_Store
 Thumbs.db
+
+!.github/
+!.github/workflows/
+!.github/workflows/ci-destroy.yml
