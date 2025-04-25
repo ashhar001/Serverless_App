@@ -1,6 +1,6 @@
 # Simple Time Service
 
-A microservice that provides time-related functionality, deployed on AWS infrastructure using Terraform.
+A Serverless microservice that provides time-related functionality, deployed on AWS infrastructure using Terraform.
 
 ## Project Overview
 
